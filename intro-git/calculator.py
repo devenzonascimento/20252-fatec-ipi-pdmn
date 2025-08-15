@@ -1,8 +1,8 @@
-def sum(x: float, y: float) -> float:
-  return x + y
+def sum(op1: float, op2: float) -> float:
+  return op1 + op2
 
-def sub(x: float, y: float) -> float:
-  return x - y
+def sub(op1: float, op2: float) -> float:
+  return op1 - op1
 
-def mul(x: float, y: float) -> float:
-  return x * y
+def mul(op1: float, op2: float) -> float:
+  return op1 * op2
