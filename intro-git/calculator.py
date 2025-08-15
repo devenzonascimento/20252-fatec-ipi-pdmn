@@ -3,3 +3,6 @@ def sum(x: float, y: float) -> float:
 
 def sub(x: float, y: float) -> float:
   return x - y
+
+def mul(x: float, y: float) -> float:
+  return x * y
